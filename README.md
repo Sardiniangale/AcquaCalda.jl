@@ -1,6 +1,6 @@
 # AquaCalda.jl (Hot Water)
 
-Thermomechanical Discrete Element Method(DEM), in Julia
+Thermomechanical Discrete Element Method (DEM), in Julia
 
 
 ---
@@ -26,8 +26,4 @@ The goal is a well‑tested, validated tool which is highly modular system that'
 
 ---
 
-## Installation (just a placeholder for now)
-
-```julia
-import Pkg
-Pkg.add("AcquaCalda")
+MIT license 

@@ -1,5 +1,5 @@
 # callbacks , observer pattern for simulation monitoring
-
+# note to self, check notes on page 28 before modifying this
 struct Callback
     f::Function
     interval::Int
